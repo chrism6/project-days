@@ -1,0 +1,182 @@
+html{
+    background-color: grey;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+font-family: 'Gluten', cursive;
+overflow-x:hidden;
+
+}
+
+
+#home h3{
+    border-bottom: 1px solid white;
+
+
+    
+}
+#home h3{
+    font-size: xx-large;
+    color: white;
+   bottom: 940px;
+   left: 20px;
+    position: relative;
+}
+#nav a{
+    font-size: x-large;
+    color: white;
+   position:relative;
+   bottom: 999px;
+   left: 1200px;
+   display: inline-block;
+   overflow: hidden;
+   white-space: nowrap;
+  text-decoration: none;
+   
+ 
+}
+
+.vegetables h1{
+    align-items:baseline;
+  display: flex;
+  position: absolute;
+  top: 850px;
+  left: 52%;
+  transform: translate(-100%, -100%);
+  font-size: 100px;
+  margin:120px;
+color: white;
+padding-bottom: 600px;
+text-decoration: underline;
+ 
+  }
+  .vegetables p{
+    align-items:baseline;
+  display: flex;
+  position: absolute;
+  top: 850px;
+  left: 63%;
+  transform: translate(-100%, -100%);
+  font-size: 50px;
+  margin:160px;
+color: white;
+padding-bottom: 600px;
+white-space: nowrap;
+  text-align: right;
+ padding-right: 2px;
+ align-self:baseline;
+   
+  }
+.vegetables img {
+    max-width: 100%;
+    height: auto;
+   
+}
+.bread{
+    position: relative;
+    bottom: 125px;
+    background-color: black;
+}
+
+.bread img{
+    display: flex;
+    justify-content: center;
+    border-radius: 4px;
+    padding: 5px;
+    width: 550px;
+}
+.bread h2, p{
+    padding-left: 600px;
+    position: relative;
+    bottom: 220px;
+    display: flex;
+    flex-wrap: row;
+    padding-right: 300px;
+    text-align: right;
+   color: white;
+   
+ 
+}
+.bread h2{
+    right: auto;
+}
+.bread p{
+    padding-right: 400px;
+    padding-left: 550px;
+     margin-left: 50px;
+    text-align:inherit;
+    display: flex;
+   
+    
+}
+.pineapple{
+    position: relative;
+    bottom: 185px;
+    background-color: black;
+}
+.pineapple img{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    width: 550px;
+    margin-left:auto;
+}
+.pineapple p, h2{
+    padding-left: 400px;
+    position: relative;
+    bottom: 250px;
+    display: flex;
+    flex-direction: row;
+    
+    color: white;
+   right: 200px; 
+}
+.pineapple p{
+    padding-left: 400px;
+    padding-right: 500px;
+     margin-right: 50px;
+    text-align:inherit;
+    display: flex;
+ 
+}
+.pasta{
+    position:relative;
+    bottom: 270px;
+   background-color: grey; 
+   
+  
+
+}
+
+.pasta img{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    
+    width: 500px; 
+   
+}
+.pasta h2,p{
+    padding-left: 550px;
+    position: relative;
+   color: white;
+    display: flex;
+    flex-wrap: row;
+    padding-right: 300px;
+    text-align: right;
+    
+}
+.pasta p{
+    padding-right: 400px;
+    padding-left: 500px;
+    margin-left: 50px;
+    text-align:inherit;
+    display: flex;
+   
+}
+.pasta h2{
+    right: auto;
+    bottom: 220px;
+}
+
